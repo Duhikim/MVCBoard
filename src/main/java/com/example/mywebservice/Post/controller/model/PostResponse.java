@@ -1,4 +1,4 @@
-package com.example.mywebservice.controller.model;
+package com.example.mywebservice.Post.controller.model;
 
 import lombok.*;
 

@@ -1,10 +1,10 @@
-package com.example.mywebservice.controller;
+package com.example.mywebservice.Post.controller;
 
-import com.example.mywebservice.controller.model.PostResponse;
-import com.example.mywebservice.service.PostService;
+import com.example.mywebservice.Post.controller.model.PostResponse;
+import com.example.mywebservice.Post.service.PostService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.ui.Model;
-import com.example.mywebservice.controller.model.PostRequest;
+import com.example.mywebservice.Post.controller.model.PostRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
